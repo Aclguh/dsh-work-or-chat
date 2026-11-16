@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Work / Chat",
+    "description": "Adds a Chat / Work switch to the New chat row. Chat mode runs the official chat-demo (MIT) build: its full UI, icons, settings, history menu, copy/read-aloud/regenerate, voice input, attachments and search sources are preserved. Messages use the DSH account or an API key through a local proxy; history lives in local IndexedDB and supports importing the v3 ZIP exported by chat.deepseek.com. The switch sits exactly where the Work-mode switch sits, and the New chat button is shortened so the two never overlap. Disabling the plugin stops the local proxy; history stays in the browser."
+  }
+}

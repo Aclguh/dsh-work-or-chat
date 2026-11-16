@@ -1,0 +1,13 @@
+.tmp/
+.ego/
+.probe
+.acl-recovery/
+.visual/
+node_modules/
+*.log
+*.zip
+preview*.png
+.env
+.env.*
+.DS_Store
+Thumbs.db
